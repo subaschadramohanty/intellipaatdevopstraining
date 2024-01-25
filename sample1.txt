@@ -1,1 +1,2 @@
-Hi This is the sample file for practicing
+Hi This is the sample file for practicing 
+This is the second line 
